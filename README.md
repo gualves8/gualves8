@@ -6,7 +6,7 @@ Atualmente construindo base sólida em JavaScript e lógica de programação, co
 
 ---
 
-## 🎯 Foco Atual
+## Foco Atual
 
 - Desenvolvimento backend com JavaScript (Node.js)
 - Construção de APIs e lógica de negócio
@@ -14,7 +14,7 @@ Atualmente construindo base sólida em JavaScript e lógica de programação, co
 
 ---
 
-## 🧠 Conhecimentos e Estudos
+## Conhecimentos e Estudos
 
 ### Em uso/prática:
 - JavaScript (nível intermediário)
@@ -28,7 +28,7 @@ Atualmente construindo base sólida em JavaScript e lógica de programação, co
 
 ---
 
-## 💻 Projetos
+## Projetos
 
 ### Corridas App (JavaScript)
 Projeto pessoal para prática de lógica de programação e manipulação de dados.
@@ -41,6 +41,6 @@ Projeto pessoal para prática de lógica de programação e manipulação de dad
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Conquistar minha primeira oportunidade como desenvolvedor júnior na área de backend, aplicando conhecimentos práticos e evoluindo constantemente como profissional de tecnologia.
